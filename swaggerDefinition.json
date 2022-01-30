@@ -12,6 +12,9 @@
   },
   "servers": [
     {
+      "url": "https://somos-mas-ot96.herokuapp.com/"
+    },
+    {
       "url": "http://localhost:3000"
     }
   ],
